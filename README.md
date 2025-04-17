@@ -6,7 +6,7 @@
 
 ---
 
-## 📚\ Repository Overview
+## 📚 Repository Overview
 
 This repository contains Terraform configurations and modular setups discussed in the blog, neatly organized into sections:
 
